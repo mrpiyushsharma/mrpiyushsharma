@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @mrpiyushsharma
 - 👀 I’m interested in Cyber Security and Coding...
 - 🌱 I’m currently learning JavaScript And React...
-- 📫 How to reach me :- insta:- @pt.piyushh
+- 📫 How to reach me :- Tweeter:-@mrpiyushsharma_
+                         Insta:- @pt.piyushh
 
 <!---
 mrpiyushsharma/mrpiyushsharma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
