@@ -32,7 +32,7 @@ Business website for Ayurvedic products.
 ## Connect With Me
 - GitHub: @mrpiyushsharma
 - Instagram: @pt.piyushh
-- Email: your-email@example.com
+- Email: piyushcode404@gmail.com
 
 ---
 ⭐ Always learning and building new things.
